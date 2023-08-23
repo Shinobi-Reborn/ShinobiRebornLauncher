@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "ShinobiReborn",
   "version": "2.0.5",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "Shinobi Reborn",
+  "description": "Launcher officiel Shinobi Reborn",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) ErwanMc(https://github.com/GithubErwan)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/Shinobi-Reborn/ShinobiRebornLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/Shinobi-Reborn/ShinobiRebornLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -44,6 +44,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Shinobi-Reborn/ShinobiRebornLauncher.git"
   }
 }
